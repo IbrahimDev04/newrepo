@@ -1,0 +1,6 @@
+@EcoCoinUni_HostAddress = http://localhost:5070
+
+GET {{EcoCoinUni_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
